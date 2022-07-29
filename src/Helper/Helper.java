@@ -12,6 +12,8 @@ public class Helper {
 		UIManager.put("OptionPane.yesButtonText", "Evet");
 		
 	}
+
+	// kajshdkjashd
 	
 	public static void showMsg(String str) {
 		String msg;
